@@ -31,12 +31,6 @@ review and hardening.
 pip install cryptography
 ```
 
-Or install globally:
-
-```powershell
-pip install cryptography
-```
-
 ## Running
 
 Start the app with:
